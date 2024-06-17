@@ -127,7 +127,7 @@ const App = () => {
           </Row>
           <Row>
             <Button label="xx" />
-            <Button label="," />
+            <Button label="." />
             <Button label="0" />
             <Button label="=" onClick={handleEquals} />
           </Row>
